@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1562872994 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\main.c
+	"calendario.h"
+
+1560611234 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\gotoxy.c
+	"gotoxy.h"
+
+1560611234 c:\users\administrador\desktop\herramientas\c\test_cga_v3\gotoxy.h
+	<stdbool.h>
+	<windows.h>
+
+1563073890 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\feriados.c
+	"feriados.h"
+
+1562879152 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\zeller.c
+	"fecha.h"
+	"zeller.h"
+
+1560611234 c:\users\administrador\desktop\herramientas\c\test_cga_v3\zeller.h
+
+1560611068 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\butcher.c
+	"butcher.h"
+
+1563073938 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\fecha.c
+	"fecha.h"
+
+1563073867 c:\users\administrador\desktop\herramientas\c\test_cga_v3\fecha.h
+	<stdbool.h>
+
+1562879103 c:\users\administrador\desktop\herramientas\c\test_cga_v3\feriados.h
+	<stdbool.h>
+	"butcher.h"
+	"fecha.h"
+
+1560611234 c:\users\administrador\desktop\herramientas\c\test_cga_v3\butcher.h
+	"fecha.h"
+
+1563071663 source:c:\users\administrador\desktop\herramientas\c\test_cga_v3\calendario.c
+	"calendario.h"
+
+1563073734 c:\users\administrador\desktop\herramientas\c\test_cga_v3\calendario.h
+	<conio.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	"fecha.h"
+	"feriados.h"
+	"gotoxy.h"
+	"zeller.h"
+
+1569882765 source:c:\users\matías\desktop\cga_v3\butcher.c
+	"butcher.h"
+
+1569929780 c:\users\matías\desktop\cga_v3\butcher.h
+	"fecha.h"
+
+1563073867 c:\users\matías\desktop\cga_v3\fecha.h
+	<stdbool.h>
+
+1569810825 source:c:\users\matías\desktop\cga_v3\calendario.c
+	"calendario.h"
+
+1563073734 c:\users\matías\desktop\cga_v3\calendario.h
+	<conio.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	"fecha.h"
+	"feriados.h"
+	"gotoxy.h"
+	"zeller.h"
+
+1569867893 c:\users\matías\desktop\cga_v3\feriados.h
+	<stdbool.h>
+	"butcher.h"
+	"fecha.h"
+	"zeller.h"
+
+1560611234 c:\users\matías\desktop\cga_v3\gotoxy.h
+	<stdbool.h>
+	<windows.h>
+
+1569807099 c:\users\matías\desktop\cga_v3\zeller.h
+
+1563073938 source:c:\users\matías\desktop\cga_v3\fecha.c
+	"fecha.h"
+
+1569882745 source:c:\users\matías\desktop\cga_v3\feriados.c
+	"feriados.h"
+
+1560611234 source:c:\users\matías\desktop\cga_v3\gotoxy.c
+	"gotoxy.h"
+
+1569882766 source:c:\users\matías\desktop\cga_v3\main.c
+	"calendario.h"
+
+1569807099 source:c:\users\matías\desktop\cga_v3\zeller.c
+	"fecha.h"
+	"zeller.h"
+
+1569882765 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\butcher.c
+	"butcher.h"
+
+1569929780 c:\users\mjdii\onedrive\documentos\mega\cga_v3\butcher.h
+	"fecha.h"
+
+1563073867 c:\users\mjdii\onedrive\documentos\mega\cga_v3\fecha.h
+	<stdbool.h>
+
+1569810825 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\calendario.c
+	"calendario.h"
+
+1563073734 c:\users\mjdii\onedrive\documentos\mega\cga_v3\calendario.h
+	<conio.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	"fecha.h"
+	"feriados.h"
+	"gotoxy.h"
+	"zeller.h"
+
+1569867893 c:\users\mjdii\onedrive\documentos\mega\cga_v3\feriados.h
+	<stdbool.h>
+	"butcher.h"
+	"fecha.h"
+	"zeller.h"
+
+1569807099 c:\users\mjdii\onedrive\documentos\mega\cga_v3\zeller.h
+
+1560611234 c:\users\mjdii\onedrive\documentos\mega\cga_v3\gotoxy.h
+	<stdbool.h>
+	<windows.h>
+
+1560611234 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\gotoxy.c
+	"gotoxy.h"
+
+1569882766 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\main.c
+	"calendario.h"
+
+1569807099 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\zeller.c
+	"fecha.h"
+	"zeller.h"
+
+1572291071 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\fecha.c
+	"fecha.h"
+
+1572380589 source:c:\users\mjdii\onedrive\documentos\mega\cga_v3\feriados.c
+	"feriados.h"
+
+1579178675 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\butcher.c
+	"butcher.h"
+
+1569929780 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\butcher.h
+	"fecha.h"
+
+1579300365 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\fecha.h
+	<stdbool.h>
+
+1579136821 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\calendario.c
+	"calendario.h"
+
+1563073734 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\calendario.h
+	<conio.h>
+	<stdbool.h>
+	<stdio.h>
+	<time.h>
+	"fecha.h"
+	"feriados.h"
+	"gotoxy.h"
+	"zeller.h"
+
+1569867893 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\feriados.h
+	<stdbool.h>
+	"butcher.h"
+	"fecha.h"
+	"zeller.h"
+
+1569807099 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\zeller.h
+
+1560611234 c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\gotoxy.h
+	<stdbool.h>
+	<windows.h>
+
+1579178675 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\fecha.c
+	"fecha.h"
+
+1560611234 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\gotoxy.c
+	"gotoxy.h"
+
+1579178797 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\main.c
+	"calendario.h"
+
+1579138094 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\zeller.c
+	"fecha.h"
+	"zeller.h"
+
+1579137761 source:c:\users\mjdii\onedrive\documentos\mega\programación\c\cga_v3\feriados.c
+	"feriados.h"
+

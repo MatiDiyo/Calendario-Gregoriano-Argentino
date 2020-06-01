@@ -1,0 +1,38 @@
+
+V3 creada en mayo del 2019. Finalizada el 30 de Septiembre de 2019
+
+
+Objetivos cumplidos:                                                          
+	- Modularización en librerias.                                            
+	- Mejora en la implementación de feriados. (feriados.c)                   
+	- Creación de la estructura FECHA (calendario.c)                          
+	- Suma y resta de FECHAS (calendario.c)
+ 
+Objetivos para la V4
+
+- Mejora en la implementación de feriados. (feriados.c)
+	- Implementación de feriados puentes. •
+
+- Creación de función la cual contenga una mini base de datos
+de los feriados disponibles. (feriados.c) •
+
+- Implementación del año 1582.
+
+- Mejorar la respuesta del programa ante la carga de un valor
+inválido, por ejemplo, cuando se pulsa TAB en la carga de un
+año, cosas de ese estilo.
+
+- Cambio de color de Negro a Blanco y viceversa. Con la tecla TAB
+
+- Cambio de días de la semana de que inicien las semanas en Domingo a
+Lunes y viceversa. (usuario.c).
+
+- Creación de una librería usuario.c, que nos va permitir guardar una
+configuración modificada al gusto del usuario.
+
+- Que el programa nos muestre la hora del programa (hora.c)
+
+- Al abrir el programa que tenga una lista guardada de efemérides
+y nos muestre una random (efemerides.c)
+
+- Agregar un recuadro a los meses del calendario (cuadro.c)
